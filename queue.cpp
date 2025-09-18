@@ -67,7 +67,7 @@ void display()
 {
 	if(front==NULL&&rear==NULL)
 	{
-		printf("queue is empty");
+		printf("Queue has nothing");
 		return;
 	}
 	else
